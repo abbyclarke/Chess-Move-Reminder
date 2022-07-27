@@ -1,0 +1,14 @@
+{
+    "name": "Chess Move Reminder",
+    "version": "1.0.0",
+    "description": "Checks to see when chess moves are due",
+    "manifest_version": 3,
+    "author": "Abby Clarke",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Chess Move Reminder"
+    },
+    "icons": {
+        "128": "./icons/black_chess128.png"
+    }
+}

@@ -1,0 +1,32 @@
+tr:nth-child(even) {
+    background-color: #779556;
+    border-color:#555452;
+    border-style: groove;
+    border-width: 3px;
+}
+
+tr:nth-child(odd) {
+    background-color: #ebecd0;
+    border-color: #555452;
+    border-style: groove;
+    border-width: 3px;
+}
+
+
+#header {
+    background-color:#779556;
+    border-color: #555452;
+    border-style: groove;
+    border-width: 3px;
+    
+}
+
+body {
+    background-color: #555452;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+
